@@ -1,0 +1,165 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Preahvihear', sans-serif;
+  color: #405143;
+  background-color: #E1F1FF;
+}
+
+h1 {
+  font-size: 562.5%;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 30px;
+  color: #66BFBF;
+  font-family: 'Preahvihear', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Preahvihear', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #AFC8AD;
+  border-width: 6px;
+  width: 10%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.a-student {
+  font-weight: normal;
+  text-decoration: underline;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 20px 0 20px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Preahvihear', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 340px;
+  top: 70px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 280px;
+  top: 300px;
+}
+
+.cloud3 {
+  position: absolute;
+  right: 250px;
+  top: 450px;
+}
+
+.cloud4 {
+  position:absolute;
+  left: 125px;
+  top: 670px;
+}
+
+.cloud5 {
+  position: absolute;
+  right: 100px;
+  top: 800px;
+}
+
+.contact-message {
+  margin: 20px auto 30px;
+}
+
+.copyright {
+  color: #eaf6f6;
+}
+
+.drawing-img {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro {
+  width: ;
+  margin: auto;
+}
+
+.lighter {
+  font-weight: lighter;
+}
+
+.middle-container {
+  margin-left: 80px 0;
+}
+
+.my-email {
+  margin-bottom: 30px;
+}
+
+.rutvi-profile-img {
+  width: 16%
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.swimming {
+  margin-bottom: 170px;
+}
+
+.swimming-img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
